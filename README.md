@@ -12,6 +12,8 @@ Optimize Stock and Order Management
 
 Key Insights from the Analysis
 ---
-1. A few products and regions drive the majority of sales, indicating areas for potential scaling.
-2. Monitoring stock levels helps prevent stockouts and overstocking, ensuring smooth order fulfillment.
-3. Increased invoice processing efficiency suggests operational stability, with fewer discrepancies between orders and invoices.
+- **Sales and Revenue Trends:** Monitors total sales, invoice count, and quantity sold, highlighting month-over-month (MoM) percentage changes.  
+- **Top-Selling Products and Categories:** Identifies best-performing products and categories to optimize marketing and inventory strategies.  
+- **Stock and Inventory Monitoring:** Tracks stock levels to prevent overstock or stockouts and triggers alerts for low stock.  
+- **Monthly and Seasonal Performance:** Analyzes monthly trends to identify peak and low seasons for better promotional and inventory planning.  
+- **Invoice and Customer Insights:** Provides data on invoice count and customer purchase patterns to enhance customer behavior analysis and retention strategies.   
