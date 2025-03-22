@@ -13,8 +13,5 @@ Optimize Stock and Order Management
 Key Insights from the Analysis
 ---
 1. A few products and regions drive the majority of sales, indicating areas for potential scaling.
-2. High discounts boost sales but reduce overall profit margins, requiring a balance between volume and profitability.
-3. Monitoring stock levels helps prevent stockouts and overstocking, ensuring smooth order fulfillment.
-4. Increased invoice processing efficiency suggests operational stability, with fewer discrepancies between orders and invoices.
-5. Consistent growth in sales and revenue highlights increasing customer demand and effective marketing strategies.
-
+2. Monitoring stock levels helps prevent stockouts and overstocking, ensuring smooth order fulfillment.
+3. Increased invoice processing efficiency suggests operational stability, with fewer discrepancies between orders and invoices.
